@@ -1,0 +1,80 @@
+body {
+    background-color: #A0E4CB;
+    text-align: center;
+}
+.prog {
+    color: rgb(0, 173, 181);
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}
+
+.mountain {
+    width: 100%;
+}
+
+.pfp {
+    position: absolute;
+    left: 10%;
+}
+
+.cloud1 {
+    position: absolute;
+    top: 30%;
+    left:15%;
+}
+
+.cloud2 {
+    position: absolute;
+    top: 30%;
+    right:15%;
+}
+
+.Hi {
+    width: 100%;
+}
+
+h1 {
+    color: rgb(0, 173, 181);
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 50px;
+}
+
+p {
+    color: #0D4C92;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+
+}
+
+.codingguy {
+    width: 300px;
+    height: 300px;
+}
+
+hr{
+    border: none;
+    border-top: 3px dotted;
+    background-color: #A0E4CB;
+    color: white;
+    height: 5px;
+    width: 10%; 
+}
+
+li {
+    color: #0D4C92;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+
+}
+
+a {
+    color: rgb(0, 173, 181);
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}
+
+h3 {
+    color: rgb(135, 144, 145);
+    position: relative;
+    top: 450px;
+}
